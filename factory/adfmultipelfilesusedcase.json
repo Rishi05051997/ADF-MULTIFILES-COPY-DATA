@@ -1,0 +1,9 @@
+{
+	"name": "adfmultipelfilesusedcase",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5049f59f-52c7-407e-8500-a446c22ea874",
+		"tenantId": "1468ad8d-e38b-4379-8bd1-2381d11aaffc"
+	}
+}
